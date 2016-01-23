@@ -1,6 +1,6 @@
 ##Introduction
 
-The data in the present dataset have been elaborated in the context of the final project of the Coursera MOOC on Getting and cleaning data organized by John Hopkins university (January 2016 session).
+The data for the present dataset have been elaborated in the context of the final project of the Coursera MOOC on Getting and cleaning data organized by John Hopkins university (January 2016 session).
 
 The features selected for this database are derived from the data elaborated by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto of Smartlab (www.smartlab.ws), available at the website https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip . [1]
 
@@ -24,6 +24,6 @@ The dataset includes the following files:
 
 -"Codebook.md": Shows information about the transformation on the original dataset and the variables used.
 
-- "MeansAvStDDataset.txt": A dataset with the mean values of the mean and standard deviation of each signal for each subject doing each activity. 
+- Run_analysis.R: R code that downlodad the original data (unless already present) and creates a new tidy dataset with the mean values of the mean and standard deviation of each signal for each subject doing each activity. 
 
 
