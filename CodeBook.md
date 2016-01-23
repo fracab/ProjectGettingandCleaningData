@@ -1,4 +1,4 @@
-#Features
+##Features
 
 
 The original dataset was divided into two different datasets (train and test) that were merged for the purpose of the present analysis (the original dataset has been recorded).   
