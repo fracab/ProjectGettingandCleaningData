@@ -6,6 +6,7 @@ The features selected for this database are derived from the data elaborated by 
 
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
+
 The details about the original dataset are detailed by the in the section below (copied from the original codebook).
 ==================================================================
 
