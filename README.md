@@ -1,4 +1,4 @@
-#Introduction
+##Introduction
 
 The data in the present dataset have been elaborated in the context of the final project of the Coursera MOOC on Getting and cleaning data organized by John Hopkins university (January 2016 session).
 
